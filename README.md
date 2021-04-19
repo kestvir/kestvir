@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kęstutis Virbickas.
 - 👀 I’m interested in all things web dev.
-- 🌱 I’m currently learning testing for React.
+- 🌱 I’m currently looking to learn testing for React.
 - 💞️ I’m looking to collaborate on any exciting projects!
 - 📫 How to reach me: https://kestvir.com/
 
