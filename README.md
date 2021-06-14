@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kęstutis Virbickas.
+- 👋 Hi, I’m Kęstutis.
 - 👀 I’m interested in all things web dev.
 - 🌱 I’m currently looking to learn testing.
 - 💞️ I’m looking to collaborate on any exciting projects!
