@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things web dev.
 - 🌱 I’m currently looking for a full time position as a front-end developer.
 - 💞️ I’m looking to collaborate on any exciting projects!
-- 📫 Your can reach me <a href="https://kestvir.tech/" target="_blank">here!</a>
+- 📫 How to reach me: https://kestvir.tech
 
 
 <!---
