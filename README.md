@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kęstutis.
 - 👀 I’m interested in all things web dev.
 - 💞️ I’m looking to collaborate on any exciting projects!
-- 📫 How to reach me: https://kestvir.tech
+- 📫 How to reach me: https://kestvir.xyz
 
 
 <!---
